@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Latest on Bon Aqua Computer Club</title>
+    <link>https://bonaqua.club/</link>
+    <description>Recent content in Latest on Bon Aqua Computer Club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 15 Aug 2021 11:00:19 -0600</lastBuildDate><atom:link href="https://bonaqua.club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://bonaqua.club/about/</link>
+      <pubDate>Sun, 19 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://bonaqua.club/about/</guid>
+      <description>The Bon Aqua Computer Club is an opportunity to meet and collaborate on fun technical projects that expand our minds and enhance our self-reliance. We can each have a hand in taking back our sovereignty if we join together and commit to learning about what opportunities are out there!
+ Background  Bon Aqua Computer Club is owned &amp;amp; operated by Andrew Grathwohl.  I moved to Bon Aqua from New York, NY, where I spent most of my childhood and adult years until the COVID-19 lockdowns began taking place.</description>
+    </item>
+    
+    <item>
+      <title>Run Your Mouth: Summer Porch Tour 2021</title>
+      <link>https://bonaqua.club/posts/rym-spt/</link>
+      <pubDate>Sun, 15 Aug 2021 11:00:19 -0600</pubDate>
+      
+      <guid>https://bonaqua.club/posts/rym-spt/</guid>
+      <description>The first live event at the Bon Aqua Computer Club was a resounding success, and put us on an amazing trajectory for future endeavors.
+ We kicked the night off with some standup sets by BK Chris, followed by Robbie TheFire Bernstein.
+Much light was made of the fact that I was run over by a car in Nashville the previous day.
+Next, we did a live Run Your Mouth podcast, where I presented a one-time-only slide deck about Bill Gates and why he is evil in far more ways than one.</description>
+    </item>
+    
+  </channel>
+</rss>
