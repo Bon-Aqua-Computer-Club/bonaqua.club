@@ -59,6 +59,15 @@ or competing events in sight!*
 - cookouts and other large gatherings
 - *ask us about our super-secret clearing in our woods!*
 
+#### Filming
+*Our space is equipped to support full-crew video production projects!*
+
+- outdoor conditioned power available
+- fully unregulated drone filming
+- 3 acres of woods +0.25 acre clearing
+- lots of mature trees
+- 5 acres of open fields
+
 ### FreeBSD Server
 {{< border "dashed thick" >}}
 > Our dual-Xeon FreeBSD-13.0 server featuring a 1Gbps dedicated broadband line!
