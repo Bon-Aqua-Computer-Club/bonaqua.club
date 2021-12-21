@@ -5,8 +5,6 @@ aliases = ["about-us","contact"]
 author = "Andrew Grathwohl"
 +++
 
-![](/bacc1.png)
-
 > The `Bon Aqua Computer Club` is an opportunity to meet and collaborate on fun
 > technical projects that expand our minds and enhance our self-reliance. We
 > can each have a hand in taking back our sovereignty if we join together and
