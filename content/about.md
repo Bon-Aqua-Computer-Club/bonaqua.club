@@ -6,9 +6,9 @@ author = "Andrew Grathwohl"
 +++
 
 > The `Bon Aqua Computer Club` is an opportunity to meet and collaborate on fun
-> technical projects that expand our minds and enhance our self-reliance. We
-> can each have a hand in taking back our sovereignty if we join together and
-> commit to learning about what opportunities are out there!
+> technical projects that expand our minds and enhance our self-reliance. It is
+> also a fully-fledged performance space with outdoor event, film production,
+> live streaming, and concert capabiltiies!
 
 ## Background
 > Bon Aqua Computer Club is owned & operated by [Andrew
