@@ -3,6 +3,15 @@ title: "Run Your Mouth: Summer Porch Tour 2021"
 date: 2021-08-15T11:00:19-06:00
 show_summary: true
 draft: false
+tags:
+- rym
+- summer
+- robbie thefire bernstein
+- bkchris
+- bill gates
+- podcast
+- standup
+- comedy
 ---
 <center>
 <iframe width="640" height="480" src="https://www.youtube-nocookie.com/embed/FQn4xc4gGsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

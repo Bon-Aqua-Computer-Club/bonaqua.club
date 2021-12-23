@@ -2,6 +2,11 @@
 title: "Cheap DIY Performance Stage"
 date: 2021-12-23T10:49:27-06:00
 draft: false
+tags: 
+- diy
+- music
+- cheap
+- amazon
 ---
 
 ![](/stage1.jpg)
