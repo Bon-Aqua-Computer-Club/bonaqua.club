@@ -49,6 +49,7 @@ a cinema-quality projection setup, and a time-synchronized control room!*
 - wheelchair-accessible entrances/exits
 
 #### Outdoor Events
+
 *Surrounded by **8 acres** of serene, peaceful fields with no road noise, neighbors,
 or competing events in sight!*
 
