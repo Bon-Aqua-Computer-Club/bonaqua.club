@@ -6,7 +6,20 @@
     <description>Recent content in Latest on Bon Aqua Computer Club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Dec 2021 17:08:59 -0600</lastBuildDate><atom:link href="https://bonaqua.club/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 30 Dec 2021 10:27:18 -0600</lastBuildDate><atom:link href="https://bonaqua.club/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hyperdrives For Liberty</title>
+      <link>https://bonaqua.club/posts/hyperdrives/</link>
+      <pubDate>Thu, 30 Dec 2021 10:27:18 -0600</pubDate>
+      
+      <guid>https://bonaqua.club/posts/hyperdrives/</guid>
+      <description>We are going to be hosting hyperdrive archives of some media that we believe to be essential to spreading the ideas we support.
+Learn how to help seed &amp;amp; obtain this material over at the Hypercore Protocol webpage.
+Tom Woods Show  hyper://222bfc61315f28e167b713e7252b445a99c558c328d6e31f5ce5ffd3df31627c
+ $ hyp seed hyper://222bfc61315f28e167b713e7252b445a99c558c328d6e31f5ce5ffd3df31627c Ron Paul Liberty Report  hyper://354dc85376d12e1ca2f80c77ea76f2bc238ca70fc2e621935b3ff9664e094cfd
+ $ hyp seed hyper://354dc85376d12e1ca2f80c77ea76f2bc238ca70fc2e621935b3ff9664e094cfd </description>
+    </item>
+    
     <item>
       <title>Everything Is Fake</title>
       <link>https://bonaqua.club/posts/everything-fake/</link>
