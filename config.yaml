@@ -27,7 +27,6 @@ params:
   # For more date formats see https://gohugo.io/functions/format/
   dateFormat: Jan 2, 2006
   navTitleLink: /
-  TwitterUser: "BonAquaClub"
 
 menu:
   nav:
