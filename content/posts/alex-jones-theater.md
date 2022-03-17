@@ -16,11 +16,21 @@ tags:
 > opening ceremony! Come on down to based Bon Aqua, TN and enjoy an outdoor viewing of
 > rare Alex Jones films from the George W. Bush years.
 
+**We're gonna:**
+
+- project subversive Alex Jones documentaries against the side of a barn
+- bon(aqua) fire
+- have seating for ~50 people
+
+***A free copy of the film will be avaiable for download at the event!***
+### Event Details
 The Bon Aqua Computer Club is located at:
 
+```
 10582 New Cut Off Rd
 Bon Aqua, TN 37025
+```
 
-About a 35-minute drive from Nashville!
+(About a 35-minute drive from Nashville!)
 
 **BYOB**
