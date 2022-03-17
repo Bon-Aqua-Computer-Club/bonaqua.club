@@ -11,7 +11,7 @@ tags:
 
 ![](/ajt1.jpg)
 
-## Join Us at 7PM, March 19th!
+## Join Us at 6PM, March 19th!
 > The Bon Aqua Computer Club is proud to present the **Alex Jones Theater**
 > opening ceremony! Come on down to based Bon Aqua, TN and enjoy an outdoor viewing of
 > rare Alex Jones films from the George W. Bush years.
