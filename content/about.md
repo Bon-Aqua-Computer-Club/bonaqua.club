@@ -49,6 +49,7 @@ a cinema-quality projection setup, and a time-synchronized control room!*
 - wheelchair-accessible entrances/exits
 
 #### Outdoor Events
+![](/bacc1.jpg)
 
 *Surrounded by **8 acres** of serene, peaceful fields with no road noise, neighbors,
 or competing events in sight!*
@@ -56,9 +57,10 @@ or competing events in sight!*
 - outdoor stage
 - drive-in-theater ready, including AM/FM audio transmitter or phone app!
 - cookouts and other large gatherings
-- *ask us about our super-secret clearing in our woods!*
+- *ask us about our super-secret [woods clearing](/bacc4.jpg)!*
 
 #### Filming
+![](/bacc2.jpg)
 *Our space is equipped to support full-crew video production projects!*
 
 - outdoor conditioned power available
