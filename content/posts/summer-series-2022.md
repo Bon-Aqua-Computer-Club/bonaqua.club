@@ -35,4 +35,4 @@ many treasures to be found on **THE DARKNET**. The two hour event will go over:
 Bon Aqua, TN 37025
 ```
 
-(About a 35-minute drive from Nashville!)
+(About a 40-minute drive from Nashville!)
