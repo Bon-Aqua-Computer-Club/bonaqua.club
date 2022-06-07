@@ -63,6 +63,11 @@ or competing events in sight!*
 > Grathwohl](https://grathwohl.me).
 > ![](https://multipli.city/assets/img/andrew.jpg)
 
+My goal with the Bon Aqua Computer Club is to build an abundant local community
+centered around the ideas of free software, self-reliant computing, and other
+endeavors that empower individuals to escape the wrath of Big Tech, the cloud,
+and the surveillance state.
+
 I moved to Bon Aqua from New York, NY, where I spent most of my childhood and
 adult years until the COVID-19 lockdowns began taking place. It became clear to
 me that this was not a disaster that we were going to protest like we did the
@@ -73,9 +78,4 @@ After many years of believing in the things that make Tennessee great - a
 respect for others' natural rights, an inherently limited centralized state
 authority that works in service of people’s liberties, etc., - I finally
 decided to seek it out, and I am so happy I did.
-
-My goal with the Bon Aqua Computer Club is to build an abundant local community
-centered around the ideas of free software, self-reliant computing, and other
-endeavors that empower individuals to escape the wrath of Big Tech, the cloud,
-and the surveillance state.
 
