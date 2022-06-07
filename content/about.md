@@ -10,27 +10,6 @@ author = "Andrew Grathwohl"
 > also a fully-fledged performance space with outdoor event, film production,
 > live streaming, and concert capabiltiies!
 
-## Background
-> Bon Aqua Computer Club is owned & operated by [Andrew
-> Grathwohl](https://grathwohl.me).
-> ![](https://multipli.city/assets/img/andrew.jpg)
-
-I moved to Bon Aqua from New York, NY, where I spent most of my childhood and
-adult years until the COVID-19 lockdowns began taking place. It became clear to
-me that this was not a disaster that we were going to protest like we did the
-Iraq War, like the Stonewall Riots, and like the Union Square direct action in
-the early 20th century.
-
-After many years of believing in the things that make Tennessee great - a
-respect for others' natural rights, an inherently limited centralized state
-authority that works in service of people’s liberties, etc., - I finally
-decided to seek it out, and I am so happy I did.
-
-My goal with the Bon Aqua Computer Club is to build an abundant local community
-centered around the ideas of free software, self-reliant computing, and other
-endeavors that empower individuals to escape the wrath of Big Tech, the cloud,
-and the surveillance state.
-
 ## Facilities
 
 ### Event Spaces
@@ -78,3 +57,25 @@ or competing events in sight!*
 - torrent seedbox
 - website hosting
 - (highly secure) private email services
+
+## Background
+> Bon Aqua Computer Club is owned & operated by [Andrew
+> Grathwohl](https://grathwohl.me).
+> ![](https://multipli.city/assets/img/andrew.jpg)
+
+I moved to Bon Aqua from New York, NY, where I spent most of my childhood and
+adult years until the COVID-19 lockdowns began taking place. It became clear to
+me that this was not a disaster that we were going to protest like we did the
+Iraq War, like the Stonewall Riots, and like the Union Square direct action in
+the early 20th century.
+
+After many years of believing in the things that make Tennessee great - a
+respect for others' natural rights, an inherently limited centralized state
+authority that works in service of people’s liberties, etc., - I finally
+decided to seek it out, and I am so happy I did.
+
+My goal with the Bon Aqua Computer Club is to build an abundant local community
+centered around the ideas of free software, self-reliant computing, and other
+endeavors that empower individuals to escape the wrath of Big Tech, the cloud,
+and the surveillance state.
+
