@@ -10,6 +10,10 @@ author = "Andrew Grathwohl"
 > also a fully-fledged performance space with outdoor event, film production,
 > live streaming, and concert capabiltiies!
 
+## Contact
+Reach out to [**Andrew Grathwohl**](mailto:andrew@grathwohl.me) for more details
+on any of the below offerings.
+
 ## Facilities
 
 ### Event Spaces
@@ -57,6 +61,27 @@ or competing events in sight!*
 - torrent seedbox
 - website hosting
 - (highly secure) private email services
+
+## Services
+{{< border "dotted thick" >}}
+> **We offer pro-bono media and music production services!**
+{{< /border >}}
+
+### Multi-Track Recording
+*Our recording facilities combine state-of-the-art professional audio software
+with old-school audio engineering tricks of the trade!*
+
+- 32x balanced inputs (XLR, AES)
+- 8x channels TOSLINK
+- 36x channels SPDIF
+- Up to 8 separate headphone mixes
+
+### Audio Mastering & Restoration
+*If you have recently faced any forms of "public cancellation" via
+corporate media outlets, we would like to help you continue the musical career
+you've worked so hard to achieve. The Bon Aqua Computer Club humbly offers free
+mastering services to any artists who have been dragged through the mud over
+the views they hold, whether they be political, religious, ethical, etc.*
 
 ## Background
 > Bon Aqua Computer Club is owned & operated by [Andrew
